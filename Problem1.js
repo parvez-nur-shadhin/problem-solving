@@ -14,4 +14,4 @@ let c = {
 
 console.log("Swapped values:");
 console.log( "a =", c.a);
-console.log( "b =", c.b);
+console.log( "b =", c.b); 
